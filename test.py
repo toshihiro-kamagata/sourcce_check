@@ -1,4 +1,4 @@
 # coding: utf-8
 
 print "こんにちは"
-print "QVYx7WTfQL2TL7LeWENFGuBC7MkpVnMTeLkd"
+print "QVYx7WTfQL2TL7LeWENFGuBC7MksrgvfvvpVnMTeLkd"
